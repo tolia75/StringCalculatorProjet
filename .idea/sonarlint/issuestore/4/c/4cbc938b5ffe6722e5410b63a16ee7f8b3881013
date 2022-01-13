@@ -1,0 +1,7 @@
+
+t
+java:S5778"RRefactor the code of the lambda to have only one invocation throwing an exception.(·£Î’ıÿÿÿÿ8“Å£Ìä/
+;
+java:S5786"Remove this 'public' modifier.( ¤£²8ÎäÌä/
+S
+java:S5976"6Replace these 6 tests with a single Parameterized one.(Ûªø8ÎäÌä/
